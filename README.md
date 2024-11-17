@@ -1,6 +1,6 @@
 # React/TypeScript form
 
-It uses very long list of mock data in dropdown. To optimize render this list without browser blocking there is usage of "virtualized list" approach.
+It uses a very long list of mock data in a dropdown. To optimize and render this list without browser blocking, a "virtualized list" approach is used. The form also uses custom simple modals.
 
 ## Getting Started
 
